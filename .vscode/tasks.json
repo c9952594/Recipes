@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Recipes/RecipeGenerator.Console/RecipeGenerator.Console.csproj"
+                "${workspaceFolder}/RecipeGenerator.Console/RecipeGenerator.Console.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
