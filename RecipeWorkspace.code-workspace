@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.gitignore": true,
+            "**/bin": true,
+            "**/obj": true
+        }
+    }
+}
