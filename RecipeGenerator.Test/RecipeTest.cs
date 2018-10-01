@@ -23,7 +23,16 @@ namespace Tests {
             this.Children = new List<Node>();
         }
 
+        public int Colspan { get; private set; } = 1;
+
+        public int Rowspan() {
+            return Children.Sum(child => child.Rowspan()) + (Children.Count == 0 ? 1 : 0);
+        }
+
+        public static int maxPathSize = 0;
+
         public static Node FromList(IEnumerable<string> lines) {
+            var currentSize = 0;
             var root = new Node(-1, null, null);
             var current = root;
             foreach (var line in lines)
@@ -33,12 +42,15 @@ namespace Tests {
                 var value = trimmed.TrimEnd();
 
                 while (index <= current.Index) {
+                    currentSize -= 1;
                     current = current.Parent;
                 }
 
                 var child = new Node(index, value, current);
                 current.Children.Add(child);
                 current = child;
+                currentSize += 1;
+                if (maxPathSize < currentSize) maxPathSize = currentSize;
             }
             return root;
         } 
@@ -46,7 +58,7 @@ namespace Tests {
         public override string ToString() {
             var builder = new StringBuilder();
             if (Index >= 0) {
-                builder.AppendLine($"{"".PadLeft(Index, ' ')}{Value}({Index})");
+                builder.Append($"{Value}({Index})-");
             }
             foreach (var child in Children)
             {
@@ -54,9 +66,150 @@ namespace Tests {
             }
             return builder.ToString();
         }
+
+        public IEnumerable<List<Node>> Paths() {
+            if (Children.Count == 0) yield return new List<Node>() { this };
+            foreach (var child in Children)
+            {
+                foreach (var path in child.Paths())
+                {
+                    if (Index >= 0) {
+                        path.Add(this);
+                    }
+                    yield return ResizeTo(path, maxPathSize);
+                }
+            }
+        }
+
+        public static void ResizeTo(int size) {
+            if (Children.Count == 1) {
+                Colspan = size;
+            }
+            if (Children.Count == 2) {
+                Children.Insert(1, new Node(Index, "", this));
+            }
+            Children[1].Colspan = size - Children.Count;
+
+            foreach (var child in Children)
+            {
+                child.ResizeTo(size);
+            }
+        }
     }
 
     public class RecipeTest {
+        [Test]
+        public void Resizing() {
+             var root = Node.FromList(new [] {
+                "A",
+                " B",
+                "  C",
+                " D",
+                " E",
+                "  F",
+                "  G",
+                "   H",
+                " I"
+            });
+
+            var a = root.Children[0];
+            var b = a.Children[0];
+            var c = b.Children[0];
+            var d = a.Children[1];
+            var e = a.Children[2];
+            var f = e.Children[0];
+            var g = e.Children[1];
+            var h = g.Children[0];
+            var i = a.Children[3];
+            
+            IEnumerable<List<Node>> paths = root.Paths();
+            var maximumSize = paths.Max(path => path.Count);
+
+            maximumSize.ShouldBe(4);
+        }
+
+
+        [Test]
+        public void RowSpan() {
+             var root = Node.FromList(new [] {
+                "A",
+                " B",
+                "  C",
+                " D",
+                " E",
+                "  F",
+                "  G",
+                "   H",
+                " I"
+            });
+
+            var a = root.Children[0];
+            var b = a.Children[0];
+            var c = b.Children[0];
+            var d = a.Children[1];
+            var e = a.Children[2];
+            var f = e.Children[0];
+            var g = e.Children[1];
+            var h = g.Children[0];
+            var i = a.Children[3];
+
+            a.Rowspan().ShouldBe(5);
+            b.Rowspan().ShouldBe(1);
+            c.Rowspan().ShouldBe(1);
+            d.Rowspan().ShouldBe(1);
+            e.Rowspan().ShouldBe(2);
+            f.Rowspan().ShouldBe(1);
+            g.Rowspan().ShouldBe(1);
+            h.Rowspan().ShouldBe(1);
+            i.Rowspan().ShouldBe(1);
+        }
+
+        [Test]
+        public void Pathing() {
+             var root = Node.FromList(new [] {
+                "A",
+                " B",
+                "  C",
+                " D",
+                " E",
+                "  F",
+                "  G",
+                "   H",
+                " I"
+            });
+
+            var a = root.Children[0];
+            var b = a.Children[0];
+            var c = b.Children[0];
+            var d = a.Children[1];
+            var e = a.Children[2];
+            var f = e.Children[0];
+            var g = e.Children[1];
+            var h = g.Children[0];
+            var i = a.Children[3];
+            
+            List<Node>[] paths = root.Paths().ToArray();
+
+            paths[0][0].ShouldBe(c);
+            paths[0][1].ShouldBe(b);
+            paths[0][2].ShouldBe(a);
+
+            paths[1][0].ShouldBe(d);
+            paths[1][1].ShouldBe(a);
+
+            paths[2][0].ShouldBe(f);
+            paths[2][1].ShouldBe(e);
+            paths[2][2].ShouldBe(a);
+
+            paths[3][0].ShouldBe(h);
+            paths[3][1].ShouldBe(g);
+            paths[3][2].ShouldBe(e);
+            paths[3][3].ShouldBe(a);
+
+            paths[4][0].ShouldBe(i);
+            paths[4][1].ShouldBe(a);
+        }
+
         [Test]
         public void ShouldCreateATreeOfTheInputRecipeList() {
             var root = Node.FromList(new [] {
