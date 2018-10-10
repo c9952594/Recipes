@@ -96,13 +96,8 @@ namespace Tests {
         }
 
         public override string ToString() {
-            var builder = $"{Value}({Index},{Rowspan()}) ";
+            var builder = $"{Value}({Index}) ";
             
-            foreach (var child in Children)
-            {
-                builder = builder + child.ToString();
-            }
-
             return builder;
         }
 
