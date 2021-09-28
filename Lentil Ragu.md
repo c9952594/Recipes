@@ -36,7 +36,7 @@
 
 ## Summary Table
 
-|                  |              |                | Fry: 15 Minutes | Combine | Simmer: 50 Minutes |
+| Name             | Amount       | Prep           | Fry: 15 Minutes | Combine | Simmer: 50 Minutes |
 | ---------------- | ------------ | -------------- | :-------------: | :-----: | :----------------: |
 | Olive oil        | 3 tbsp       |                |       Fry       |         |       Simmer       |
 | Onion            | 2 whole      | Finely chopped |       \|        |         |         \|         |
