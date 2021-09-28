@@ -36,17 +36,17 @@
 
 ## Summary Table
 
-|                  |              |                |   Prepare   | 15 Minutes |   Prepare   | 50 Minutes |
-| ---------------- | ------------ | -------------- | :---------: | :--------: | :---------: | :--------: |
-| Olive oil        | 3 tbsp       |                | **Combine** |  **Fry**   |             | **Simmer** |
-| Onion            | 2 whole      | Finely chopped |     \|      |     \|     |             |     \|     |
-| Carrot           | 3 whole      | Finely chopped |     \|      |     \|     |             |     \|     |
-| Celery           | 3 whole      | Finely chopped |   Combine   |    Fry     |             |     \|     |
-| Garlic           | 3 cloves     | Crushed        |             |            | **Combine** |     \|     |
-| Red lentils      | 500 grams    | Washed         |             |            |     \|      |     \|     |
-| Chopped tomatoes | 2 x 400 gram |                |             |            |     \|      |     \|     |
-| Tomato Puree     | 2 tbsp       |                |             |            |     \|      |     \|     |
-| Dried Oregano    | 2 tsp        |                |             |            |     \|      |     \|     |
-| Dried Thyme      | 2 tsp        |                |             |            |     \|      |     \|     |
-| Bay leaf         | 3            |                |             |            |     \|      |     \|     |
-| Vegetable Stock  | 1 litre      |                |             |            |   Combine   |   Simmer   |
+|                  |              |                | Fry: 15 Minutes | Combine | Simmer: 50 Minutes |
+| ---------------- | ------------ | -------------- | :-------------: | :-----: | :----------------: |
+| Olive oil        | 3 tbsp       |                |       Fry       |         |       Simmer       |
+| Onion            | 2 whole      | Finely chopped |       \|        |         |         \|         |
+| Carrot           | 3 whole      | Finely chopped |       \|        |         |         \|         |
+| Celery           | 3 whole      | Finely chopped |       Fry       |         |         \|         |
+| Garlic           | 3 cloves     | Crushed        |                 | Combine |         \|         |
+| Dried Oregano    | 2 tsp        |                |                 |   \|    |         \|         |
+| Dried Thyme      | 2 tsp        |                |                 |   \|    |         \|         |
+| Bay leaf         | 3 leaves     |                |                 |   \|    |         \|         |
+| Tomato Puree     | 2 tbsp       |                |                 |   \|    |         \|         |
+| Chopped tomatoes | 2 x 400 gram |                |                 |   \|    |         \|         |
+| Red lentils      | 500 grams    | Washed         |                 |   \|    |         \|         |
+| Vegetable Stock  | 1 litre      |                |                 | Combine |       Simmer       |
