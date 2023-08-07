@@ -2,9 +2,9 @@
 
 https://downshiftology.com/recipes/shakshuka/
 
-- Oil | 2 tablespoons
-- Onion | 1 | Sliced
-- Red pepper | 2 | Diced
+- Oil | 40g
+- Onion | 1 / 180g | Sliced
+- Red pepper | 2 / 165g | Diced
 - Garlic | 4 | Crushed
 - Smoked Paprika | 2 teaspoons
 - Cumin | 1 teaspoon
@@ -18,3 +18,7 @@ https://downshiftology.com/recipes/shakshuka/
 - Toast | 4 slices
 - Flatbread
 - Tinned chickpeas
+
+onion, oil, salt, fry
+add peppers
+
