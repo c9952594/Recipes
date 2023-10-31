@@ -4,33 +4,33 @@ Ingredients
 
 For the champ topping
 
-3 floury potatoes, such as King Edward or Maris Piper, peeled, chopped
-small handful frozen peas
-knob of butter
-2 spring onions, roughly chopped
-25ml/1fl oz milk
-75g/3oz mature cheddar, broken into chunks
-pinch smoked paprika
+- 3 floury potatoes, such as King Edward or Maris Piper, peeled, chopped
+- small handful frozen peas
+- knob of butter
+- 2 spring onions, roughly chopped
+- 25ml/1fl oz milk
+- 75g/3oz mature cheddar, broken into chunks
+- pinch smoked paprika
 
 For the lentil mixture
 
-1 tbsp olive oil
-½ red onion, roughly chopped
-1 garlic clove, chopped
-2 small carrots, peeled, chopped into small pieces
-1 celery stalk, trimmed, chopped into small pieces
-400g/14oz canned plum tomatoes
-splash Worcestershire sauce (optional)
-few drops Tabasco
-pinch smoked paprika
-1 fresh bay leaf
-85ml/3fl oz red wine
-100ml/3½fl oz vegetable stock
-1 sprig fresh rosemary
-splash balsamic vinegar
-small handful fresh flatleaf parsley, roughly chopped
-400g/14oz canned Puy lentils
-sea salt and freshly ground black pepper
+- 1 tbsp olive oil
+- ½ red onion, roughly chopped
+- 1 garlic clove, chopped
+- 2 small carrots, peeled, chopped into small pieces
+- 1 celery stalk, trimmed, chopped into small pieces
+- 400g/14oz canned plum tomatoes
+- splash Worcestershire sauce (optional)
+- few drops Tabasco
+- pinch smoked paprika
+- 1 fresh bay leaf
+- 85ml/3fl oz red wine
+- 100ml/3½fl oz vegetable stock
+- 1 sprig fresh rosemary
+- splash balsamic vinegar
+- small handful fresh flatleaf parsley, roughly chopped
+- 400g/14oz canned Puy lentils
+- sea salt and freshly ground black pepper
 
 Method
 
