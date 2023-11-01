@@ -8,6 +8,7 @@
 - Carrot | 3 | Finely chopped
 - Celery | 3 | Finely chopped
 - Olive oil | 3 tbsp | In pan
+- Salt pinch 
 
 Fry until soft
 
