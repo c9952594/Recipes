@@ -13,6 +13,8 @@ Fry until soft
 
 > About 15 minutes
 
+150ml red wine
+
 ## The Rest
 
 - Garlic cloves | 3 | Crushed
@@ -23,6 +25,7 @@ Fry until soft
 - Dried Thyme | 2 tsp |
 - Bay leaf | 3 |
 - Vegetable Stock | 1 litre |
+- TSP msg
 
 Add to the base and simmer until lentils are tender.
 
