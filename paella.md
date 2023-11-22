@@ -22,3 +22,5 @@ Heat the oil in a large lidded frying pan over a medium heat and fry the onion f
 STEP 2
 Stir in the paella rice and cook for 2 mins. Pour over the white wine, if using, and cook for 2-3 mins to reduce. Add the chopped tomatoes, Kallo vegetable stock and saffron, if using.
 
+STEP 3
+Stir in the beans, then pour over the stock and bring to the boil. Reduce to a simmer and cook for 10 mins. You can stir it occasionally, if you like, but traditionally you want a crust to form on the bottom. After 10 mins, scatter the green beans or broccoli on top, place the lid on the pan and cook for 3-4 mins until the greens and rice are tender. Cook with the lid off for a few mins if the rice is still too wet. Remove from the heat, squeeze over the lemon juice and serve with lemon wedges on the side.
