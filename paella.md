@@ -14,3 +14,11 @@ saffron (optional)
 400g butter beans, or other beans such as cannellini
 200g green beans or long-stem broccoli
 2 lemons, 1 juiced and 1 cut into wedges
+
+Method
+STEP 1
+Heat the oil in a large lidded frying pan over a medium heat and fry the onion for 5 mins. Add the peppers and cook for another 5 mins until the onion and pepper has softened. Stir in the garlic and cook for 1 min, then stir in the paprika and cook for 1 min.
+
+STEP 2
+Stir in the paella rice and cook for 2 mins. Pour over the white wine, if using, and cook for 2-3 mins to reduce. Add the chopped tomatoes, Kallo vegetable stock and saffron, if using.
+
