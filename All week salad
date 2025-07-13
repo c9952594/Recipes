@@ -12,3 +12,8 @@ Balsami
 Pepper liquid
 Salt 
 Pepper
+
+```mermaid
+flowchart TD
+a-->b
+```
