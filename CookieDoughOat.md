@@ -1,0 +1,9 @@
+- 1 cup of rolled oats per jar
+- 1 tsp chia seeds per jar
+- 1 cup of almond milk per jar (or milk of choice)
+- 1/2 tosp vanilla extract per jar
+- 1/3 cup Greek yogurt per jar
+- 1 tbsp almond butter per jar
+- A squirt of honey per jar
+- 1/3 cup chocolate chips per jar
+- 0.5 tsp Salt
