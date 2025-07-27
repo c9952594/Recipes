@@ -16,6 +16,7 @@ Corn | 400g | Drained
 Feta balls | | Drained
 Fresh Basil | 30g | Finely Chopped
 Fresh Coriander | 30g | Finely Chopped
+Five bean salad | 2 cans |
 
 ## Ingredients: Dressing
 
