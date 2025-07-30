@@ -14,12 +14,12 @@ Portions | Weight | Calories
 
 Ingredient | Amount | Calories | Preparation
 --- | --- | --- | ---
-Date Syrup | 45g | 126 | 
 Oats | 120g | 455 | 
 Vanilla Protein Powder | 40g | 152 | 
 Chia Seed | 40g | 195 | 
 Salt | 3g (0.5 tsp) | 0 | 
 Caramel Drizzle | 60g | 188 | 
+Date Syrup | 45g | 126 |
 Oat Milk | 375g | 188 | 
 Greek Yogurt | 180 g | 240 | 
 
