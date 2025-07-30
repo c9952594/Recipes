@@ -1,35 +1,44 @@
 # Espresso Oats
 
-Ratio: 1.68
+Weight | Calories | Ratio
+--- | --- | ---
+1145 | 1785 | 1.56
 
-## Ingredients: Base
+Portions | Weight | Calories
+--- | --- |---
+6 | 190 | 300
 
-Ingredient | Amount | Preparation
---- | --- | --- 
-Oats | 160g |
-Almond | 40g | Ground
-Chia Seed | 10g |
-Oat Milk | 200g |
-Coffee | 4 shots/100g |
+## Ingredients
 
-## Ingredients: Topping
+### Base
 
-Ingredient | Amount | Preparation
---- | --- | --- 
-Greek Yogurt | 320g |
-Honey | 40g |
-Raspberry | Punnet / 250g |
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Oats | 160g | 606 |
+Almond | 40g | 252 | Ground
+Chia Seed | 10g | 49 | 
+Oat Milk | 200g | 100 | 
+Coffee | 100g (4 shots) | 0 |
+
+### Topping
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Greek Yogurt | 320g | 425 | 
+Honey | 40g | 122 |
+Raspberry | 250g (Punnet) | 133 |
 
 
-## Ingredients: Finish
+### Finish
 
-Ingredient | Amount | Preparation
---- | --- | --- 
-Hot chocolate | 25g |
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Hot chocolate | 25g | 98 |
 
 ## Instructions
 
-1. Combine the **Base** ingredients and leave in fridge overnight
-2. Combine the **Topping** ingredients. No need to be gentle
-3. In the morning split 5 ways into jars
+1. Combine **Base** ingredients.
+2. Combine **Topping** ingredients (No need to be gentle with the raspberries)
+3. Leave **Base** and **Topping** in the fridge overnight.
+3. Split as appropriate.
 4. Top with the hot chocolate
