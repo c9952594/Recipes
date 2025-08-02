@@ -7,8 +7,10 @@ garlic 6 25g
 1tsp Italian herbs, basil
 0.5 TSP chipotle flakes
 
-1 tbsp balsamic
-1.5 cups cottage cheese
+1 tbsp balsamic (25g)
+1.5 cups cottage cheese (375g)
 1 tsp bouillon
 
-15g basil leaf 
+30g basil leaf 
+70g tomato concentrate
+
