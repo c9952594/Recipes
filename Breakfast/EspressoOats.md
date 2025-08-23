@@ -16,9 +16,9 @@ Ingredient | Amount | Calories | Preparation
 --- | --- | --- | ---
 Oats | 160g | 606 |
 Almond | 40g | 252 | Ground
-Chia Seed | 10g | 49 | 
-Oat Milk | 200g | 100 | 
-Coffee | 100g (4 shots) | 0 |
+Chia Seed | 10g/40g | 49 | 
+Oat Milk | 200g/500g | 100 | 
+Coffee | 100g (4 shots)/4 tsp | 0 |
 
 ### Topping
 
