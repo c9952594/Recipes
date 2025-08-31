@@ -10,7 +10,7 @@ Sweet Potato | 2 | Cubed 1 cm
 Bean Salad | 2 | 1 tin mashed with liquid 
 Chipotle paste | 2 | 
 Tomato Passata | 2 | 
-Vegetable stock | | 
+Vegetable stock | 4 tsp | 
 Sugar | 3 tsp |
 Water | 400ml
 
