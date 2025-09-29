@@ -15,8 +15,8 @@ Portions | Weight | Calories
 Ingredient | Amount | Calories | Preparation
 --- | --- | --- | ---
 Oats | 160g 30g | 606 |
-Almond | 40g 7g | 252 | Ground
-Chia Seed | 40g 7g | 49 | 
+Almond | 40g 10g | 252 | Ground
+Chia Seed | 40g 10g | 49 | 
 Oat Milk | 500g 85g | 100 | 
 Coffee | 100g (4 shots)/4 tsp 15g | 0 |
 
@@ -25,7 +25,7 @@ Coffee | 100g (4 shots)/4 tsp 15g | 0 |
 Ingredient | Amount | Calories | Preparation
 --- | --- | --- | ---
 Greek Yogurt | 320g 60g | 425 | 
-Honey | 40g 10g | 122 |
+Honey | 40g 15g | 122 |
 Raspberry | 250g (Punnet) 40g | 133 |
 
 
