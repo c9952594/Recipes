@@ -16,7 +16,7 @@ Ingredient | Amount | Calories | Preparation
 --- | --- | --- | ---
 Oats | 160g 30g | 606 |
 Almond | 40g 10g | 252 | Ground
-Chia Seed | 40g 10g | 49 | 
+Chia Seed | 40g 15g | 49 | 
 Oat Milk | 500g 85g | 100 | 
 Coffee | 100g (4 shots)/4 tsp 15g | 0 |
 
@@ -33,7 +33,7 @@ Raspberry | 250g (Punnet) 40g | 133 |
 
 Ingredient | Amount | Calories | Preparation
 --- | --- | --- | ---
-Hot chocolate | 25g | 98 |
+Hot chocolate | 25g 7g | 98 |
 
 ## Instructions
 
