@@ -1,44 +1,89 @@
+# Vegan Chilli
+
 https://www.bbcgoodfood.com/recipes/vegan-chilli
 
+Weight | Calories | Ratio
+--- | --- | ---
+ |  | 
 
-3 tbsp olive oil
-2 sweet potatoes
-peeled and cut into medium chunks
-2 tsp smoked paprika
-2 tsp ground cumin
-1 onion
-chopped
-2 carrots
-chopped
-2 celery sticks
-chopped
-2 garlic cloves
-crushed
-1-2 tsp chilli powder
-(depending on how hot you like it)
-1 tsp dried oregano
-1 tbsp tomato purée
-1 red pepper
-cut into chunks
-2 x 400g cans chopped tomatoes
-400g can black beans
-drained
-400g can kidney beans
-drained
-lime wedges
-guacamole, rice and coriander to serve
+Portions | Weight | Calories
+--- | --- | ---
+4 |  | 
 
-Method
-step 1
-Heat the oven to 200C/180C fan/gas 6. Put the sweet potato in a roasting tin and drizzle over 1½ tbsp oil, 1 tsp smoked paprika and 1 tsp ground cumin. Give everything a good mix so that all the chunks are coated in spices, season with salt and pepper, then roast for 25 mins until cooked.
+## Ingredients
 
-step 2
-Meanwhile, heat the remaining oil in a large saucepan over a medium heat. Add the onion, carrot and celery. Cook for 8-10 mins, stirring occasionally until soft, then crush in the garlic and cook for 1 min more. Add the remaining dried spices and tomato purée. Give everything a good mix and cook for 1 min more.
+### Roasted Sweet Potato
 
-step 3
-Add the red pepper, chopped tomatoes and 200ml water. Bring the chilli to a boil, then simmer for 20 mins. Tip in the beans and cook for another 10 mins before adding the sweet potato. Season to taste then serve with lime wedges, guacamole, rice and coriander. Will keep, in an airtight container in the freezer, for up to three months.
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Sweet Potatoes | 2 medium | | Peeled and cut into medium chunks
+Olive Oil | 1.5 tbsp | | 
+Smoked Paprika | 1 tsp | | 
+Ground Cumin | 1 tsp | | 
+Salt & Pepper | To taste | | 
 
-To make in a slow cooker
-Heat the oil in a large frying pan over a medium heat. Add the onion, carrot and celery. Cook for 8-10 mins, stirring occasionally until soft, then crush in the garlic, tip in the sweet potato chunks and cook for 1 min more. Add all the dried spices, oregano and tomato purée, cook for 1 min, then tip into a slow cooker.
+### Base
 
-Add the red pepper and chopped tomatoes. Give everything a good stir then cook on low for 5 hrs. Stir in the beans and cook for another 30 mins to 1 hr. Season to taste and serve with lime wedges, guacamole, rice and coriander.
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Olive Oil | 1.5 tbsp | | 
+Onion | 1 medium | | Chopped
+Carrots | 2 medium | | Chopped
+Celery | 2 sticks | | Chopped
+Garlic | 2 cloves | | Crushed
+
+### Sauce
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Smoked Paprika | 1 tsp | | 
+Ground Cumin | 1 tsp | | 
+Chilli Powder | 1-2 tsp | | To taste
+Dried Oregano | 1 tsp | | 
+Tomato Purée | 1 tbsp | | 
+Red Pepper | 1 medium | | Cut into chunks
+Chopped Tomatoes (Tinned) | 800g (2 cans) | | 
+Water | 200ml | | 
+Black Beans (Tinned) | 400g (1 can) | | Drained
+Kidney Beans (Tinned) | 400g (1 can) | | Drained
+
+### Serving
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Lime Wedges | To serve | | 
+Guacamole | To serve | | 
+Rice | To serve | | 
+Fresh Coriander | To serve | | 
+
+## Instructions
+
+### Standard Method (45 mins)
+
+1. Heat oven to 200C/180C fan/gas 6
+2. Toss **roasted sweet potato** ingredients in a roasting tin and roast for 25 mins
+3. Meanwhile, heat oil in large saucepan over medium heat
+4. Cook **base** vegetables for 8-10 mins until soft
+5. Add garlic and cook 1 min more
+6. Add **sauce** spices and tomato purée, cook 1 min
+7. Add red pepper, chopped tomatoes and water
+8. Bring to boil, then simmer 20 mins
+9. Add beans and cook 10 mins
+10. Stir in roasted sweet potato
+11. Season to taste and serve with **serving** accompaniments
+
+### Slow Cooker Method (6 hrs)
+
+1. Heat oil in large frying pan over medium heat
+2. Cook onion, carrot and celery for 8-10 mins until soft
+3. Add garlic and sweet potato chunks, cook 1 min
+4. Add all spices, oregano and tomato purée, cook 1 min
+5. Transfer to slow cooker
+6. Add red pepper and chopped tomatoes
+7. Cook on low for 5 hrs
+8. Stir in beans and cook 30 mins - 1 hr more
+9. Season to taste and serve with **serving** accompaniments
+
+## Notes
+
+- Freezes well for up to 3 months in airtight container
