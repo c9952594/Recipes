@@ -1,48 +1,56 @@
 # Dhal
 
-Ratio: 1.4
+Weight | Calories | Ratio
+--- | --- | ---
+ |  | 1.4
 
-## Ingredients: Paneer
+Portions | Weight | Calories
+--- | --- | ---
+ |  | 
 
-Ingredient | Amount | Preparation
----|---|---
-Paneer | 275g | Grilled then cubed
+## Ingredients
 
-## Ingredients: Aromatics
+### Paneer
 
-Ingredient | Amount | Preparation
----|---|---
-Cardamon Seed | 5 | Bashed
-Cinammon Stick | 1 | Must be solid
-Mustard Seed | 1 tbsp / 15g |
-Butter | 30g |
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Paneer | 275g |  | Grilled then cubed
 
-## Ingredients: 
+### Aromatics
 
-Ingredient | Amount | Preparation
----|---|---
-Onion | Large / 360g | Diced
-Ginger | 25g | Finely Diced
-Garlic | 30g | Crushed
-Chillis | 4-5 / 20g | Chopped
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Cardamon Seed | 5 |  | Bashed
+Cinammon Stick | 1 |  | Must be solid
+Mustard Seed | 1 tbsp / 15g |  | 
+Butter | 30g |  | 
 
-Red Lentil | 360g | Rinsed
-Whole Coconut Milk | 450g | 
-Hot water | 400g |
-Bouillon | 1 tbsp / 15g |
+### Main
 
-Green Lentils | 1 can / 265g | Drained
-Kidney Beans | 1 can / 240g | Drained
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Onion | Large / 360g |  | Diced
+Ginger | 25g |  | Finely diced
+Garlic | 30g |  | Crushed
+Chillis | 4-5 / 20g |  | Chopped
 
-## Ingredient: Post Cook
+Red Lentil | 360g |  | Rinsed
+Whole Coconut Milk | 450g |  | 
+Hot Water | 400g |  | 
+Bouillon | 1 tbsp / 15g |  | 
 
-Ingredient | Amount | Preparation
----|---|---
-Coriander | 30g | Finely Chopped
-Garam Masala | 2 tsp |
-Tandori Masala Mix | 4 tbsp / 60g | 
+Green Lentils | 1 can / 265g |  | Drained
+Kidney Beans | 1 can / 240g |  | Drained
+
+### Post Cook
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Coriander | 30g |  | Finely chopped
+Garam Masala | 2 tsp |  | 
+Tandori Masala Mix | 4 tbsp / 60g |  | 
 
 ## Instructions
 
 1. Get **Paneer** under the grill and brown off while preparing the rest of the meal
-2. 
+2. Build out remaining steps for **Aromatics**, **Main**, and **Post Cook** when you next cook this recipe.

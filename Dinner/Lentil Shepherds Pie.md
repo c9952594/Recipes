@@ -1,47 +1,58 @@
-https://www.google.com/amp/s/www.bbc.co.uk/food/recipes/lentilshepherdspiewi_93532/amp
+# Lentil Shepherds Pie
 
-Ingredients
+Source: https://www.google.com/amp/s/www.bbc.co.uk/food/recipes/lentilshepherdspiewi_93532/amp
 
-For the champ topping
+Weight | Calories | Ratio
+--- | --- | ---
+ |  | 
 
-- 3 floury potatoes, such as King Edward or Maris Piper, peeled, chopped
-- small handful frozen peas
-- knob of butter
-- 2 spring onions, roughly chopped
-- 25ml/1fl oz milk
-- 75g/3oz mature cheddar, broken into chunks
-- pinch smoked paprika
+Portions | Weight | Calories
+--- | --- | ---
+ |  | 
 
-For the lentil mixture
+## Ingredients
 
-- 1 tbsp olive oil
-- ½ red onion, roughly chopped
-- 1 garlic clove, chopped
-- 2 small carrots, peeled, chopped into small pieces
-- 1 celery stalk, trimmed, chopped into small pieces
-- 400g/14oz canned plum tomatoes
-- splash Worcestershire sauce (optional)
-- few drops Tabasco
-- pinch smoked paprika
-- 1 fresh bay leaf
-- 85ml/3fl oz red wine
-- 100ml/3½fl oz vegetable stock
-- 1 sprig fresh rosemary
-- splash balsamic vinegar
-- small handful fresh flatleaf parsley, roughly chopped
-- 400g/14oz canned Puy lentils
-- sea salt and freshly ground black pepper
+### Champ Topping
 
-Method
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Floury Potatoes | 3 |  | Peeled and chopped
+Frozen Peas | Small handful |  | 
+Butter | Knob |  | 
+Spring Onions | 2 |  | Roughly chopped
+Milk | 25ml |  | 
+Mature Cheddar | 75g |  | Broken into chunks
+Smoked Paprika | Pinch |  | 
 
-Preheat the oven to 200C/400F/Gas 6. For the champ topping, heat a pan of salted water, add the potatoes and bring gently to the boil, then simmer until the potatoes are nearly cooked through, about 15-20 minutes. When the potatoes for the champ topping are almost done, add the frozen peas and cook for a few more minutes until the peas are tender. Drain and set aside.
+### Lentil Mixture
 
-Meanwhile, for the lentil mixture, heat the olive oil in a large frying pan over a medium heat and gently fry the chopped onion, garlic, carrots and celery for 5-10 minutes, until softened.
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Olive Oil | 1 tbsp |  | 
+Red Onion | 1/2 |  | Roughly chopped
+Garlic Clove | 1 |  | Chopped
+Carrots | 2 small |  | Peeled and chopped small
+Celery Stalk | 1 |  | Trimmed and chopped small
+Plum Tomatoes (Tinned) | 400g |  | 
+Worcestershire Sauce | Splash (optional) |  | 
+Tabasco | Few drops |  | 
+Smoked Paprika | Pinch |  | 
+Fresh Bay Leaf | 1 |  | 
+Red Wine | 85ml |  | 
+Vegetable Stock | 100ml |  | 
+Fresh Rosemary | 1 sprig |  | 
+Balsamic Vinegar | Splash |  | 
+Fresh Flatleaf Parsley | Small handful |  | Roughly chopped
+Puy Lentils (Tinned) | 400g |  | Drained
+Sea Salt | To taste |  | 
+Black Pepper | To taste |  | Freshly ground
 
-Add the remaining lentil mixture ingredients except for the lentils and season to taste with salt and freshly ground black pepper. Bring to the boil then reduce the heat and simmer for 10 minutes until the vegetables are tender and the sauce has reduced. Stir the lentils into the tomato sauce.
+## Instructions
 
-Melt the butter in a small saucepan over a low heat, then gently fry the spring onions until softened. Add the milk and heat through.
-
-Mash the potatoes and peas roughly. Add the warm milk mixture to the potatoes and continue to mash until combined but still chunky.
-
-Spoon the lentil mixture into a medium pie dish and top with the champ. Scatter over the cheese and smoked paprika.Place the dish onto a baking sheet and bake the pie for 25-30 minutes, or until the potato is golden-brown.
+1. Preheat oven to 200C/400F/Gas 6.
+2. For **Champ Topping**, boil potatoes in salted water for 15 to 20 minutes until almost cooked. Add peas for the last few minutes, then drain.
+3. For **Lentil Mixture**, fry onion, garlic, carrots, and celery in olive oil over medium heat for 5 to 10 minutes until softened.
+4. Add remaining **Lentil Mixture** ingredients except lentils. Season, bring to boil, then simmer for 10 minutes until reduced.
+5. Stir in lentils and cook briefly to heat through.
+6. Melt butter in a small pan, soften spring onions, then add milk and warm through. Mash potatoes and peas, then mix in the warm milk mixture until chunky.
+7. Spoon lentil mixture into a pie dish, top with champ, scatter over cheddar and smoked paprika, then bake for 25 to 30 minutes until golden.

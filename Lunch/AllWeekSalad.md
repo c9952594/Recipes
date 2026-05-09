@@ -1,32 +1,40 @@
 # All Week Salad
 
-Ratio: 1.15
+Weight | Calories | Ratio
+--- | --- | ---
+ |  | 1.15
 
-## Ingredients: Salad
+Portions | Weight | Calories
+--- | --- | ---
+ |  | 
 
-Ingredient | Amount | Preparation
---- | --- | --- 
-Cucumber | Large / 450g | Diced
-Baby tomatoes | Tub / 430g | Halved
-Red onion | 1 | Diced
-Mozzarella | | Cubed
-Black olives | Jar / 165g | Drained
-Peppers | Jar / 80g | Drained
-Corn | 400g | Drained
-Feta balls | | Drained
-Fresh Basil | 30g | Finely Chopped
-Fresh Coriander | 30g | Finely Chopped
-Five bean salad | 2 cans |
+## Ingredients
 
-## Ingredients: Dressing
+### Salad
 
-Ingredient | Amount | Preparation
---- | --- | --- 
-Olive oil | 100g |
-Balsamic | 25g |
-Pepper liquid | Good splash / 40g | 
-Soy sauce | 15g | 
-Honey | 40g |
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Cucumber | Large / 450g |  | Diced
+Baby Tomatoes | Tub / 430g |  | Halved
+Red Onion | 1 |  | Diced
+Mozzarella |  |  | Cubed
+Black Olives | Jar / 165g |  | Drained
+Peppers | Jar / 80g |  | Drained
+Corn | 400g |  | Drained
+Feta Balls |  |  | Drained
+Fresh Basil | 30g |  | Finely chopped
+Fresh Coriander | 30g |  | Finely chopped
+Five Bean Salad | 2 cans |  | 
+
+### Dressing
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Olive Oil | 100g |  | 
+Balsamic | 25g |  | 
+Pepper Liquid | Good splash / 40g |  | 
+Soy Sauce | 15g |  | 
+Honey | 40g |  | 
 
 ## Instructions
 

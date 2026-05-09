@@ -1,34 +1,46 @@
-https://www.hellofresh.co.uk/recipes/miso-honeyed-tofu-5fbfd401d6bb3a64b930d1ee
+# Miso Honeyed Tofu With Shiitake And Chestnut Mushroom Rice
 
-## Ingredients: Tofu
+Source: https://www.hellofresh.co.uk/recipes/miso-honeyed-tofu-5fbfd401d6bb3a64b930d1ee
 
-Ingredient | Amount | Preparation
+Weight | Calories | Ratio
 --- | --- | ---
-Jasmine Rice | 300g | Cook it
+ |  | 
 
-## Ingredients: Tofu
-
-Ingredient | Amount | Preparation
+Portions | Weight | Calories
 --- | --- | ---
-Firm Tofu | 560g | Tear into bite size pieces
-Plain Flour | 16g | Coat tofu 
+ |  | 
 
-## Ingredients: Main
+## Ingredients
 
-Ingredient | Amount | Preparation
---- | --- | ---
-Chestnut Mushrooms | 300g | Thinly slice
-Shitake Mushrooms | 100g | Thinly slice
-Pak Choi | 2 | Slice Widthways
-Garlic Cloves | 2 | Crushed
+### Rice
 
-## Ingredients: Glaze
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Jasmine Rice | 300g |  | Cook it
 
-Ingredient | Amount | Preparation
---- | --- | ---
-Soy Sauce | 50g | 
-Honey | 30g |
-Miso Paste | 30g |
+### Tofu
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Firm Tofu | 560g |  | Tear into bite-size pieces
+Plain Flour | 16g |  | Coat tofu
+
+### Main
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Chestnut Mushrooms | 300g |  | Thinly slice
+Shitake Mushrooms | 100g |  | Thinly slice
+Pak Choi | 2 |  | Slice widthways
+Garlic Cloves | 2 |  | Crushed
+
+### Glaze
+
+Ingredient | Amount | Calories | Preparation
+--- | --- | --- | ---
+Soy Sauce | 50g |  | 
+Honey | 30g |  | 
+Miso Paste | 30g |  | 
 
 ## Instructions
 
@@ -39,5 +51,4 @@ Miso Paste | 30g |
 5. Empty pan / Bring glaze to boil
 6. Add tofu
 7. Once rice cooked add Main
-
-Serve tofu on top of rice
+8. Serve tofu on top of rice.
