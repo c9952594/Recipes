@@ -3,6 +3,7 @@ Ingredient | Calories/100g | Ratio
 Almond (Ground) | 630 | 6.3
 Banana | 97 | 0.97
 Black Beans | 109 | 1.09
+Brown Sugar | 377 | 3.77
 Butter | 745 | 7.45
 Cacao nibs | 633 | 6.33
 Carnation Caramel Drizzle | 313 | 3.13
@@ -13,6 +14,7 @@ Chickpeas | 125 | 1.25
 Chipotle Chilli Flakes | 281 | 2.81
 Chocolate (Milk, Chips) | 535 | 5.35
 Chocolate (Hot, Powder) | 389  | 3.89
+Cinnamon (Ground) | 247 | 2.47
 Full Fat Coconut Milk | 143 | 1.43
 Coriander | 33 | 0.33
 Cucumber | 16 | 0.16
